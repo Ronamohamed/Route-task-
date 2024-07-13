@@ -32,10 +32,7 @@ dependencies:
     sdk: flutter
 
 
-  omran_text_field:
-    git:
-      url: https://github.com/Ibrahim-Omran/omran_text_field.git
-
+ 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
